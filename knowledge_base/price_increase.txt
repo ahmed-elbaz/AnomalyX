@@ -1,0 +1,31 @@
+Title: Price Increase Investigation Guide
+
+Description:
+A price increase anomaly occurs when a product's current price is significantly above its normal historical price.
+
+Typical Indicators:
+- Price ratio is significantly above 1.
+- Current price is above historical levels.
+- Demand may decline following the price increase.
+- Revenue may increase or decrease depending on customer response.
+
+Possible Causes:
+- Intentional pricing change.
+- Cost adjustment.
+- Pricing configuration issue.
+- End of a discount or promotional period.
+
+Recommended Investigation:
+- Compare current price with historical price.
+- Check demand response after the price change.
+- Compare price behavior with similar products.
+- Check whether a promotion or discount recently ended.
+
+Recommended Actions:
+- Validate that the price change was intentional.
+- Review demand impact.
+- Correct pricing configuration if the increase was unintended.
+- Review pricing strategy if demand deteriorates significantly.
+
+Important:
+A price increase can be detected from the data, but the business reason behind the change requires supporting evidence.

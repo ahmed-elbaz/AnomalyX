@@ -1,0 +1,33 @@
+Title: Stockout Investigation Guide
+
+Description:
+A stockout occurs when product inventory reaches zero and the product cannot satisfy customer demand.
+
+Typical Indicators:
+- Inventory is zero or extremely low.
+- Units sold may fall sharply or reach zero.
+- Revenue may fall sharply or reach zero.
+- Similar products may continue performing normally.
+
+Possible Causes:
+- Replenishment delay.
+- Supplier delivery issue.
+- Inventory planning or forecasting error.
+- Unexpected demand increase before the stockout.
+- Replenishment quantity was insufficient.
+
+Recommended Investigation:
+- Check inventory levels before the stockout.
+- Review recent demand trends.
+- Check whether a demand spike occurred before inventory reached zero.
+- Review replenishment and supplier delivery information if available.
+- Compare with similar products to determine whether the issue is product-specific.
+
+Recommended Actions:
+- Replenish inventory if stock is unavailable.
+- Review reorder thresholds.
+- Adjust demand forecasts if demand was underestimated.
+- Investigate supplier or replenishment delays where applicable.
+
+Important:
+Do not conclude that a specific cause occurred unless supporting evidence is available.

@@ -1,0 +1,33 @@
+Title: Demand Spike Investigation Guide
+
+Description:
+A demand spike occurs when product sales rise significantly above the product's normal historical level.
+
+Typical Indicators:
+- Units sold are significantly above historical levels.
+- Demand ratio is substantially above 1.
+- Revenue may increase significantly.
+- Similar products may continue performing normally.
+
+Possible Causes:
+- Successful promotion.
+- Sudden increase in customer demand.
+- Seasonal or external event.
+- Price reduction.
+- Unusual one-time purchase activity.
+
+Recommended Investigation:
+- Compare current demand with historical demand.
+- Check whether a promotion is active.
+- Review recent price changes.
+- Check inventory levels to determine whether stock can support increased demand.
+- Compare with similar products.
+
+Recommended Actions:
+- Ensure sufficient inventory is available.
+- Review replenishment requirements.
+- Determine whether the increase is temporary or sustained.
+- Investigate promotion or pricing effects when applicable.
+
+Important:
+Do not assume the reason for increased demand without supporting evidence.

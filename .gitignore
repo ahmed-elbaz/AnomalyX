@@ -1,0 +1,32 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Local development
+.vscode/
+.idea/
+.pytest_cache/
+
+# Learning and experimental files
+langgraph_basics.py
+test_qwen.py
+ui_test.py
+Project_2_PreCoding_Theory_Recap.pdf
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Outdated architecture diagrams
+*.png
+!AnomalyX_Architecture.png
+!AnomalyX_Detection.png
+!AnomalyX_Investigation.png

@@ -1,0 +1,33 @@
+Title: Promotion Underperformance Investigation Guide
+
+Description:
+Promotion underperformance occurs when a promotion is active but demand performs materially worse than expected promotional behavior.
+
+Typical Indicators:
+- Promotion is active.
+- Demand is below historical promotional performance.
+- Revenue may remain weak despite the promotion.
+- Previous promotions may have generated stronger demand.
+
+Possible Causes:
+- Promotion is not attractive to customers.
+- Discount level is insufficient.
+- Inventory constraints.
+- Competitor activity.
+- Product demand has weakened.
+
+Recommended Investigation:
+- Compare the current promotion with previous promotion days.
+- Compare current demand with historical promotional demand.
+- Check inventory availability.
+- Review price and discount behavior.
+- Compare with similar products.
+
+Recommended Actions:
+- Review promotion effectiveness.
+- Review discount strategy.
+- Resolve inventory constraints if present.
+- Investigate external market factors if internal indicators appear normal.
+
+Important:
+Promotion activation alone does not prove promotion underperformance. Performance should be compared with relevant historical promotional behavior.

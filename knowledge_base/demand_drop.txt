@@ -1,0 +1,35 @@
+Title: Demand Drop Investigation Guide
+
+Description:
+A demand drop occurs when product sales fall significantly below the product's normal historical level.
+
+Typical Indicators:
+- Units sold are significantly below historical levels.
+- Demand ratio is substantially below 1.
+- Revenue may decline with demand.
+- Price and inventory may remain normal.
+- Similar products may continue performing normally.
+
+Possible Causes:
+- Reduced customer demand.
+- Competitor activity.
+- Product-specific issue.
+- Price increase.
+- Insufficient inventory.
+- End of a previous promotional effect.
+
+Recommended Investigation:
+- Compare current demand with historical demand.
+- Check recent price changes.
+- Check inventory availability.
+- Check whether a promotion is active.
+- Compare performance with similar products.
+
+Recommended Actions:
+- Investigate product-specific demand drivers.
+- Review pricing if a price change occurred.
+- Review inventory if availability is constrained.
+- Review market or competitor factors if internal indicators appear normal.
+
+Important:
+Do not assign a specific cause unless supporting evidence is available.

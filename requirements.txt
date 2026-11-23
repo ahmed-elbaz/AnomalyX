@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn
+streamlit==1.67.0
+streamlit-shadcn-ui==1.5.0
+plotly
+langgraph==1.2.14
+ollama==0.6.2
